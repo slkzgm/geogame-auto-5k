@@ -1,4 +1,5 @@
 # GeoGame Automation
+![geoguessr](https://github.com/slkzgm/geogame-auto-5k/assets/105301169/f37afcbf-cd27-4e79-a50b-eeb01eeb1e9c)
 
 ## Description
 This is a Node.js application that uses Puppeteer to automate location identification and data fetching during GeoGame sessions. The application streamlines the gameplay and enhances understanding of Google Maps API interactions.
