@@ -1,0 +1,19 @@
+{
+  "solo": {
+    "auto": true,
+    "wait": true,
+    "minDelay": 3000,
+    "maxDelay": 5000
+  },
+  "liveChallenge": {
+    "wait": true,
+    "minDelay": 3000,
+    "maxDelay": 5000
+  },
+  "duels": {
+    "auto": true,
+    "wait": true,
+    "minDelay": 2000,
+    "maxDelay": 2000
+  }
+}
